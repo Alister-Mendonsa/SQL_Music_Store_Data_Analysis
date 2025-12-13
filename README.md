@@ -1,5 +1,6 @@
 # SQL_Music_Store_Data_Analysis
-📘 1. Introduction
+
+# 📘 1. Introduction
 
 This project involves analyzing a full music store database using SQL queries.
 It includes customer segmentation, sales performance tracking, exploring artist/genre popularity, and understanding revenue patterns.
@@ -7,9 +8,10 @@ It includes customer segmentation, sales performance tracking, exploring artist/
 The objective is to derive business insights from structured relational data.
 
 
-🛠️ 2. Background
 
-Music stores generate large datasets involving:
+# 🛠️ 2. Background
+
+### Music stores generate large datasets involving:
 
 - Customers
 
@@ -35,7 +37,7 @@ This project uses SQL to convert that raw data into meaningful insights that ans
 - What buying patterns do customers follow?
 
 
-3. Tools Used
+# 3. Tools Used
 
 | Tool                                   | Purpose                              |
 | -------------------------------------- | ------------------------------------ |
@@ -46,9 +48,10 @@ This project uses SQL to convert that raw data into meaningful insights that ans
 
 
 
-📈 4. Analysis (SQL Queries Performed)
 
-Key SQL topics covered:
+# 📈 4. Analysis (SQL Queries Performed)
+
+### Key SQL topics covered:
 
 - SELECT, WHERE, ORDER BY
 
@@ -81,7 +84,7 @@ Sample analysis questions (from your SQL file):
 - 👩‍💼 Employee (sales agent) performance insights
   
 
-📚 5. What You Learned
+# 📚 5. What You Learned
 
 ✔️ Importing and understanding relational database schema
 ✔️ Writing optimized SQL queries
@@ -93,9 +96,9 @@ Sample analysis questions (from your SQL file):
 
 
 
-🔍 6. Insights
+# 🔍 6. Insights
 
-Some example insights from the analysis:
+### Some example insights from the analysis:
 
 - Rock and Alternative are the top-selling genres
 
@@ -109,9 +112,9 @@ Some example insights from the analysis:
 
 These insights support better marketing strategy, inventory planning, and demand forecasting.
 
-🏁 7. Conclusion
+# 🏁 7. Conclusion
 
-This SQL project demonstrates how structured databases can reveal powerful business insights.
+### This SQL project demonstrates how structured databases can reveal powerful business insights.
 Using only SQL, this analysis identifies:
 
 - Customer trends
